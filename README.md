@@ -1,4 +1,6 @@
 # Javascript-Complete-Shopping-Cart-Project-Made-with-Vanilla-JS-CSS-HTML-
+ click to visit my website:https://velmurugantr.github.io/shoping--card/
+ 
 This Projects features a lot of functions I will love developers to explore,  the functions ranges from the add items cart to 
 having the added cart items on another page i.e the cart page is entirely another page, it is there not a single page shopping cart
 project. On the items page or main web page once an item is added to cart, it can no longer be added to cart but the quantity can be 
