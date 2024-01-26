@@ -1,4 +1,4 @@
-# Javascript-Complete-Shopping-Cart-Project-Made-with-Vanilla-JS-CSS-HTML-
+# Javascript-Complete-Shopping-Cart-Project-Made-withJS-CSS-HTML-
  click to visit my website:https://velmurugantr.github.io/shoping--card/
  
 This Projects features a lot of functions I will love developers to explore,  the functions ranges from the add items cart to 
